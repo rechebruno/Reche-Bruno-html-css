@@ -1,0 +1,25 @@
+table{
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-size: arial;
+    color: blue;
+}
+#destacar{
+    color: white;
+    background-color: red;
+}
+tr,td{
+    padding: 8px 4px;
+    border: 1px solid black;
+    padding-block: 12px;
+}
+th{
+    width: 170px;
+}
+#titulos{
+    font-weight: bold;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
